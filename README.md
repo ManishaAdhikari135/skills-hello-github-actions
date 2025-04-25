@@ -5,7 +5,7 @@
 _Create and run a GitHub Actions workflow._
 
 </header>
-<p>Author: Manisha Adhikari :)</p>
+<p>Author: Manisha Adhikari :smile:_</p>
 
 ## Step 5: Trigger the workflow
 
